@@ -126,7 +126,7 @@ Darkest secret: I like puppies
 
 Enter index to display (0-7): 0
 First name: John
-Last name: Doe
+Last name: Smith
 Nickname: Johnny
 Phone number: 5551234567
 Darkest secret: I like puppies
