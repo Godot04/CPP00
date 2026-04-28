@@ -14,9 +14,7 @@
 ### Exercise 00: Megaphone
 
 **Directory:** `ex00/`
-
 **Files:** `Makefile`, `megaphone.cpp`
-
 **Concept:** Introduction to C++ syntax and basic program structure
 
 A simple program that acts like a megaphone, converting all input text to uppercase.
