@@ -32,7 +32,7 @@ A simple program that acts like a megaphone, converting all input text to upperc
 ### Exercise 01: PhoneBook
 
 **Directory:** `ex01/`  
-**Files:** `Makefile`, `phonebook.hpp`, `phonebook.cpp`, `contact.hpp`, `contact.cpp`, `main.cpp`, plus utility files  
+**Files:** `Makefile`, `phonebook.hpp`, `phonebook.cpp`, `contact.hpp`, `contact.cpp`, `main.cpp` 
 **Concept:** Object-Oriented Programming with classes, member functions, and encapsulation  
 
 An interactive 1980s-style phonebook application that demonstrates core OOP principles.
